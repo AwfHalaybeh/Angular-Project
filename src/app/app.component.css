@@ -1,0 +1,11 @@
+h1 {
+    font-size: 36px; /* Adjust the font size to your liking */
+        font-weight: bold;
+        color: #fa7100; /* Change the color to your preferred color */
+        text-align: center; /* Or align it as you see fit */
+        margin: 20px 0; /* Add some margin to create space around the heading */
+        text-transform: uppercase; /* Convert the text to uppercase for emphasis */
+        letter-spacing: 2px; /* Increase or decrease the letter spacing as needed */
+        /* Add more styles like text-shadow, background-color, etc., if desired */
+    }
+
